@@ -3,3 +3,5 @@
     ↪ configured-neoforge-1.21-2.5.0.jar
 
     ↪ FpsReducer2-neoforge-1.21-2.9.1
+
+    ↪ knightquest-1.3.0
