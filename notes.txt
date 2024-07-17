@@ -5,3 +5,7 @@
     ↪ FpsReducer2-neoforge-1.21-2.9.1
 
     ↪ knightquest-1.3.0
+
+    ↪ Ding-1.21-NeoForge-1.5.0.jar
+
+    ↪ iChunUtil-1.21-NeoForge-1.0.0.jar
