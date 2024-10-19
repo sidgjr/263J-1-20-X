@@ -1,69 +1,3 @@
-Zombie Awareness - ESSE TAMBÉM 
-https://www.curseforge.com/minecraft/mc-mods/zombie-awareness
-
-Additional Structures
-https://www.curseforge.com/minecraft/mc-mods/additional-structures
-
-Arthropod Phobia Expansions + Horror Bosses (Spider Moth)
-https://www.curseforge.com/minecraft/mc-mods/arphex
-
-Biomancy
-https://www.curseforge.com/minecraft/mc-mods/biomancy
-
-AtomicStryker's Infernal Mobs
-https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs
-
-Crash Utilities
-https://www.curseforge.com/minecraft/mc-mods/crash-utilities
-
-CompactStorage
-https://www.curseforge.com/minecraft/mc-mods/compactstorage
-
-Domum Ornamentum
-https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
-
-Enigmatic Legacy
-https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy
-
-Harder Spawners
-https://www.curseforge.com/minecraft/mc-mods/harder-spawners
-
-Hunter'sReturn
-https://www.curseforge.com/minecraft/mc-mods/huntersreturn
-
-It Takes a Pillage
-https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage
-
-Mini Utilities - SPIKES
-https://www.curseforge.com/minecraft/mc-mods/miniutilities
-
-Mutant Monsters [Forge & Fabric]
-https://www.curseforge.com/minecraft/mc-mods/mutant-monsters
-
-Monster Plus
-https://www.curseforge.com/minecraft/mc-mods/monster-plus
-
-More Mob Variants
-https://www.curseforge.com/minecraft/mc-mods/more-mob-variants
-
-Passive Skill Tree
-https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree
-
-Passive Skill Tree Additions
-https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-additions
-
-Progressive Bosses
-https://www.curseforge.com/minecraft/mc-mods/progressive-bosses
-
-Physics Mod
-https://www.curseforge.com/minecraft/mc-mods/physics-mod
-
-Relics
-https://www.curseforge.com/minecraft/mc-mods/relics-mod
-
-Relics: Alex's Mobs Compat
-https://www.curseforge.com/minecraft/mc-mods/ram-compat
-
 Silence's Turrets - PORFAVOR
 https://www.curseforge.com/minecraft/mc-mods/silences-defense-tower
 
@@ -135,6 +69,8 @@ https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul
 
 Brutal Bosses - Custom Bosses[Forge/Fabric]
 https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon
+
+--------------------------
 
 Marium's Soulslike Weaponry
 https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry
