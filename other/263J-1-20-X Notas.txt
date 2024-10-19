@@ -1,3 +1,15 @@
 NeoForge
 
     Lithium (Fabric/NeoForge)
+
+Conflitos
+
+    rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar
+
+    Embeddium++
+
+Git Tag
+
+    git tag -a 0.0.0 -m "My version 0.0.0"
+
+    git push origin 0.0.0
