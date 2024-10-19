@@ -20,10 +20,12 @@ Links
 
 Git Tag
 
-    git tag -a 0.0.0 -m "My version 0.0.0"
+    git tag -a 0.0.0 -m "Version 0.0.0"
 
     git push origin 0.0.0
 
 Version
 
     0.1.1
+
+    0.1.2
